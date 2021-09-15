@@ -54,12 +54,12 @@ li a {
   color: #fff;
 }
 
-li a: hover {
-  background-color: #000
+li a:hover {
+  background-color: #000;
 }
 
 a:hover {
-  background-color: 000#;
+  background-color: #000;
 }
 
 h3 {
